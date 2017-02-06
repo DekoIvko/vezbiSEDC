@@ -1,0 +1,2 @@
+1 da se definiraat inputi,
+2 da se najde resenie kade ke se cuvaat o=podatocite

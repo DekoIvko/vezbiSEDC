@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Ime na recep",
+        "source": "Poteklo na recept",
+        "listaNaObjekti": ["jajca", "brashno", "voda"]
+    },
+    {
+        "name": "Burel",
+        "source": "Turcija",
+        "listaNaObjekti": ["jajca", "brashno", "voda"]
+    }
+]
